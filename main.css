@@ -1,0 +1,25 @@
+:root {
+	font-size: 24px;
+}
+
+body {
+	text-align: center;
+}
+
+#list-container {
+	max-width: 1000px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	row-gap: 25px;
+	column-gap: 25px;
+}
+
+.audio-clip {
+	width: fit-content;
+}
+
+.label {
+	font-size: 0.8rem;
+	margin-bottom: 10px;
+}
