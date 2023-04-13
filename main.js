@@ -50,7 +50,6 @@ const audioFiles = [
 	"show us your pants.wav",
 	"Spongebob O sounds.mp3",
 	"Squeex play minecwaf.wav",
-	"squeexing-it.mp3",
 	"Stardew valley harvesting berries.wav",
 	"testicles.wav",
 	"Thanks for the head.mp3",
