@@ -27,7 +27,6 @@ const audioFiles = [
 	"Make your bed in the morning (1).mp3",
 	"Make your bed in the morning (2).mp3",
 	"marker bit.wav",
-	"marker_bit_1.wav",
 	"meow.wav",
 	"minecraft villager.wav",
 	"More at 7 (1).mp3",
