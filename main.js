@@ -1,5 +1,6 @@
 const audioFiles = [
 	"AIN'T NO WAY.mp3",
+	"banned from twitch.mp3",
 	"bazinga (1).mp3",
 	"bazinga (2).mp3",
 	"bazinga (3).mp3",
