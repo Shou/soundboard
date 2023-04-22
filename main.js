@@ -9,6 +9,7 @@ const audioFiles = [
 	"bazinga (6).mp3",
 	"bombs (1).mp3",
 	"bombs (2).mp3",
+	"Borat my wife.mp3",
 	"bozo (1).mp3",
 	"bozo (2).mp3",
 	"busting a nut.mp3",
@@ -43,6 +44,7 @@ const audioFiles = [
 	"Make your bed in the morning (2).mp3",
 	"marker bit eraser.mp3",
 	"marker bit.mp3",
+	"master gave dobby a sock.mp3",
 	"meow.mp3",
 	"might be wondering (1).mp3",
 	"might be wondering (2).mp3",
@@ -64,6 +66,8 @@ const audioFiles = [
 	"pirate oh the huge manatee.mp3",
 	"pirate oh the misery.mp3",
 	"quieres.mp3",
+	"right behind me (1).mp3",
+	"right behind me (2).mp3",
 	"rock hard for whomps.mp3",
 	"SAJ.mp3",
 	"seinfeld kramer (1).mp3",
@@ -97,10 +101,12 @@ const audioFiles = [
 	"well gary (4).mp3",
 	"witch A.mp3",
 	"witch CINNA.mp3",
+	"yoda mmm.mp3",
 	"yoshi (1).mp3",
 	"yoshi (2).mp3",
 	"yoshi (3).mp3",
 	"zany life.mp3",
+	"zoop zoop zoop.mp3",
 ];
 
 const CONTAINER = document.getElementById('list-container');
