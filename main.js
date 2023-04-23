@@ -49,6 +49,7 @@ const audioFiles = [
 	"might be wondering (1).mp3",
 	"might be wondering (2).mp3",
 	"might be wondering (3).mp3",
+	"minecraft punching trees.mp3",
 	"minecraft villager.mp3",
 	"More at 7 (1).mp3",
 	"More at 7 (2).mp3",
