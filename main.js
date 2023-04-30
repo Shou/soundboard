@@ -1,5 +1,6 @@
 const audioFiles = [
 	"AIN'T NO WAY.mp3",
+	"anatomy lesson.mp3",
 	"banned from twitch.mp3",
 	"bazinga (1).mp3",
 	"bazinga (2).mp3",
@@ -31,6 +32,7 @@ const audioFiles = [
 	"I fuck with you heavy (2).mp3",
 	"I fuck with you heavy (3).mp3",
 	"I'm-a going to cum.mp3",
+	"IRS.mp3",
 	"Jerma confirms Squeex is awesome.mp3",
 	"JOI.wav",
 	"kiss.mp3",
@@ -81,6 +83,8 @@ const audioFiles = [
 	"Spongebob O sounds.mp3",
 	"squeex discovers the soundboard.mp3",
 	"Squeex play minecwaf.mp3",
+	"Star Wars exsqueeze me.mp3",
+	"Star Wars roger roger.mp3",
 	"Stardew valley harvesting berries.mp3",
 	"testicles.mp3",
 	"Thanks for the head.mp3",
