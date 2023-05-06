@@ -7,6 +7,11 @@ body {
 	padding-bottom: 30vh;
 }
 
+input[type='search'] {
+	font-size: 0.8rem;
+	margin-bottom: 30px;
+}
+
 #list-container {
 /*	max-width: 1000px;*/
 	margin-left: auto;
